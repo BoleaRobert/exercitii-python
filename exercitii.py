@@ -1,35 +1,35 @@
-#Exercitiul 1
-x=input("Care este numele? ")
-y=input("Care este varsta? ")
-z=input("Care este hobby-ul preferat? ")
-print(f"Salut sunt {x} am {y} ani si imi place {z}.")
+# #Exercitiul 1
+# x=input("Care este numele? ")
+# y=input("Care este varsta? ")
+# z=input("Care este hobby-ul preferat? ")
+# print(f"Salut sunt {x} am {y} ani si imi place {z}.")
 
-#Exercitiul 2
-x=int(input("Introduceti un numar: "))
-y=int(input("Introduceti un al doilea numar: "))
-print(f"Suma celor doua numere este: {x+y}.")
+# #Exercitiul 2
+# x=int(input("Introduceti un numar: "))
+# y=int(input("Introduceti un al doilea numar: "))
+# print(f"Suma celor doua numere este: {x+y}.")
 
-#Exercitiul 3
-x=int(input("Introduceti un numar: "))
-if x%2==0:
-    print(f"{x} este par.")
-else:
-    print(f"{x} este impar.")
+# #Exercitiul 3
+# x=int(input("Introduceti un numar: "))
+# if x%2==0:
+#     print(f"{x} este par.")
+# else:
+#     print(f"{x} este impar.")
 
-# #Exercitiul 4
-x=int(input("Cate grade celsius vrei in fahrenheit? "))
-print(f"{x} grade celsius sunt {x*9/5+32} grade fahrenheit.")
+# # #Exercitiul 4
+# x=int(input("Cate grade celsius vrei in fahrenheit? "))
+# print(f"{x} grade celsius sunt {x*9/5+32} grade fahrenheit.")
 
-# #Exercitiul 5
-x=input("Esti bine obosit sau entuziasmat? ")
-if x.lower()=="bine":
-    print("Bravo!")
-elif x.lower()=="obosit":
-    print("Odihnestete!")
-elif x.lower()=="entuziasmat":
-    print("Bine ai venit!")
-else:
-    print("Nu te-am inteles.")
+# # #Exercitiul 5
+# x=input("Esti bine obosit sau entuziasmat? ")
+# if x.lower()=="bine":
+#     print("Bravo!")
+# elif x.lower()=="obosit":
+#     print("Odihnestete!")
+# elif x.lower()=="entuziasmat":
+#     print("Bine ai venit!")
+# else:
+#     print("Nu te-am inteles.")
 
 #Exercitiul 6
 x=int(input("Introduceti un numar: "))
